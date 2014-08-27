@@ -1,4 +1,4 @@
-Autoevaluación Institucional DERECHO 2014
+Autoevaluación Institucional CIENCIAS JURÍDICAS 2014
 =============
 
 Este repositorio contiene los resultados de las encuestas 2014 de "Autoevaluación Institucional" de las carreras de Derecho, Escribanía y Comercio Exterior de la Facultad de Ciencias Jurídicas de la Universidad del Norte, llevadas a cabo en junio-julio de 2014 a docentes y alumnos de la carrera. Se incluyen además las bases de datos y figuras asociadas. La base de datos fue confeccionada a partir de los formularios de encuestas remitidos por el Comité de Autoevaluación de la Carrera. La confección de la base de datos y el análisis estuvo a cargo de [César Aponte](https://github.com/ceapo1905), Asistente de Investigación de la Dirección de Investigaciones Científicas, utilizando el código estadístico diseñado por el [Prof. Dr. Alcides Chaux](https://github.com/alcideschaux), Director de Investigaciones Científicas de la Universidad del Norte. 
